@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.146a955d.css",
+    "main.js": "/static/js/main.bbcb886f.js",
+    "static/media/endless-constellation.svg": "/static/media/endless-constellation.d11f271d97fae2304636.svg",
+    "index.html": "/index.html",
+    "main.146a955d.css.map": "/static/css/main.146a955d.css.map",
+    "main.bbcb886f.js.map": "/static/js/main.bbcb886f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.146a955d.css",
+    "static/js/main.bbcb886f.js"
+  ]
+}
